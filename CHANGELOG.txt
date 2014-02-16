@@ -1,0 +1,6 @@
+Project ET 16-02-2014 11:30:24
+
+     * Initial commit on project_et repo
+     * Added .gitignore file
+     * Committed CHANGLOG.txt & README.txt files
+-------------------------------------------------------
